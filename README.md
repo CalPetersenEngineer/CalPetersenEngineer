@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CalPetersenEngineer
+- 👋 Hi, I’m Cal.
 - 👀 I’m interested in 3D printing operating systems
 - 🌱 I’m currently learning Marlin!
 - 📫 How to reach me: twitter.com/CalPetMechEngr
